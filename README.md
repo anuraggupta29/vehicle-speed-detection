@@ -10,4 +10,4 @@
 <li>Based on the time difference, the vehicles speed is estimated.</li>
 </ul>
 
-<h4>Note : A detailed version of this project aslo exists. Check out my other repositories.</h4>
+<h4>Note : A detailed version of this project also exists. Check out my other repositories.</h4>
